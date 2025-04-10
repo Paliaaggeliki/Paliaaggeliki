@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Palia Angeliki!
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif?cid=6c09b952joriwl93ny70na5tqz1ft35tm49qy14bs14do2rn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200">
+</p>
+
 🎓 I'm currently studying **Informatics** at the **Ionian University** in Greece.  
 
 💡 I'm passionate about the world of **Machine Learning**, **Artificial Intelligence**, and all things smart and predictive — especially topics like **classification**, **prediction**, and medical data analysis.  
